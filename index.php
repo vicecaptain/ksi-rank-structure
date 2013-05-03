@@ -18,9 +18,10 @@ include "app.php";
 			<ul>
 				<?php foreach(Store::getData() as $rank) { ?>
 					<li>
-						<?php echo $rank->getName(); ?>
-						<br />
-						<?php echo $rank->getDescription(); ?>
+						<h3><?php echo $rank->getName(); ?></h3>
+						<p>
+							<?php echo $rank->getDescription(); ?>
+						</p>
 					</li>
 				<?php } ?>
 			</ul>
