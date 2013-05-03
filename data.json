@@ -1,5 +1,10 @@
 [
     {
+    "name": "Lieutenant",
+    "description": "This position is given to those Sergeants who may become eligible for a promotion after 3 weeks of training and experience in KSI.<br /><br />Successful fulfillment of the Sergeant rank for at least 2 weeks time.<br /><br />Helping their Captains with squad activities and the squad lists. A lieutenant should know and understand how to run background checks on the new members. They must being fully trained in recruiting techniques and know the Code of Conduct an rank structure.<br /><br />They have to be active on ksiglobal.com and the KSI Forums. They are responsible for solving minor problems and recruiting new members.<br /><br />Reports to Captain, Major and General.<br /><br />They should be role models for Sergeants, Corporals, and Privates."
+    }
+    
+    {
         "name": "Sergeant",
         "description": "This position is given to those Privates or Corporals who have acquired a KSI tag.<br /><br />Acquiring a KSI Gamer tag, being in KSI for at least 2 weeks, and having permission from a Captain to get it.<br /><br />Uphold the Code of Conduct; stay active as a gamer and be registered on ksiglobal.com and KSI Forums. They should also know the rank Structure up through Director.<br /><br />Reports to Lieutenants, and any other higher rank.<br /><br />The 2 weeks wait to get the KSI gamer tag is to ensure the member wants to be part of the community; they have to understand that they will represent KSI from that moment on."
     },
