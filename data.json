@@ -1,4 +1,8 @@
-[
+[   
+    {
+      "name": "Major",
+      "description": "This position is given to a Captain who may be eligible for a promotion after 1 month 1/2 of training and expereince in KSI. Must have completed fulfillment of Captain training, must completed 1 - 2 workshops, ran at least 1 - 2 workshops, runs weekly squad meeting, handles minor and major issues.<br /><br />Reports to General - Co-Founder can promote Captain and approves Lieutentant - Sergant.<br /><br />They should be role models for Captain - Lieutentant."
+    },
     {
       "name": "Captain",
       "description": "This position is given to those Lieutenants who may become eligible for a promotion after 4 weeks of training and experience in KSI.<br /><br />Successful fulfillment of the Lieutenant rank for at least 2 weeks time.<br /><br />Organizing activities for the squad, setting up squad meetings for generals, forwarding the leaders messages to the squad, recruiting, staying active on ksiglobal.com and the KSI Forums. They must have full knowledge of the Rank Structure. They are the ones to suggest which Sergeants should be promoted to Lieutenants. And they also are responsible of reporting any larger problems of the squad to the Major or General directly.<br /><br />Reports to Major, General and or Co-Founder.<br /><br />They should be role models for Sergeants, Corporals and Privates."
