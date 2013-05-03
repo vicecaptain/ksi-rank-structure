@@ -1,10 +1,14 @@
 [
     {
-        "name": "Test Name 1",
-        "description": "Test Description 1"
+        "name": "Corporal",
+        "description": "This position is given to those Privates who have recruited 10 or more members into their squad and can't get a KSI tag yet.<br /><br />Recruiting 10 or more members, explaining them the KSI Code of Conduct, registered at ksiglobal.com and the KSI Forums.<br /><br />Participating in Squad Activities, being active on the KSI Forums and fully understanding the Code of Conduct and the Rank Structure up through Co-Founder, and being a role model to new recruits.<br /><br />Reports to Sergeants or Lieutenants, or any other higher rank.<br /><br />Corporal are encouraged but not required to change their gamer tag within 60 days. They must have permission of a Captain to get it, and staying in KSI for at least 2 weeks. Any problems they might have should report to the Lieutenants."
     },
     {
-        "name": "Test Name 2",
-        "description": "Test Description 2"
+        "name": "Private",
+        "description": "This is the first position acquired with your enrollment in the community.<br /><br />Joining a legit KSI squad, agrees to change motto and bio.<br /><br />Getting and remaining in uniform, according to the indications of the recruiter, agreeing to respect the Code of Conduct and The Xbox Live Disclaimer, starting to learn the Rank Structure up through General rank, sign up at ksiglobal.com and the KSI Forums, and meet other KSI members by attending squad activities. <br /><br />Reports to Sergeants, or any other higher rank.<br /><br /> Privates are encouraged but not required to change their gamer tag within  60 days. They must have permission of a Captain to get it, and staying in  KSI for at least 2 weeks. Any problems they might have should report to the Lieutenants."
+    },
+    {
+        "name": "KSI Member",
+        "description": "This position is for any KSI member who opts out of being within KSI Leadership Structure but, must follow KSI Code of Conduct, KSI Leadership Structure, & KSI Chain of Command. They must also agree to changing motto and bio."
     }
 ]
