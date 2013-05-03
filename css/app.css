@@ -10,12 +10,12 @@ strong {
 	font-weight: 600;
 }
 
-header, section {
-	padding: 30px 30px 0 30px;
+header {
+	padding: 70px 30px 0 30px;
 }
 
 section {
-	padding-bottom: 15px;
+	padding: 30px 30px 15px 30px;
 }
 
 h1 {
@@ -37,10 +37,15 @@ h3 {
 	font-weight: 600;
 }
 
-h3 span {
+h3 .block {
 	display: block;
 	border-bottom: 1px solid #3a434c;
 	padding-bottom: 10px;
+}
+
+h3 .pound-sign {
+	padding-right: 10px;
+	display: inline-block;
 }
 
 a {
@@ -51,27 +56,32 @@ a:hover {
 	color: #202e43;
 }
 
-ul {
-}
-
 ul li {
-	padding-bottom: 30px;
+	padding-bottom: 60px;
 }
 
-footer {
-	font-size: 14px;
-	border-top: solid 1px #000;
+footer,
+.sticky-nav {
+	text-shadow: 0 1px #000;
+	color: #8296aa;
+}
+
+footer,
+.sticky-nav {
 	background: #444;
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#333333', endColorstr='#111111');
 	background: -webkit-gradient(linear, left top, left bottom, from(#333), to(#111));
 	background: -moz-linear-gradient(top,  #333,  #111);
 }
 
+footer {
+	font-size: 14px;
+	border-top: solid 1px #000;
+}
+
 footer > div {
 	border-top: solid 1px #555;
 	padding: 20px 30px;
-	text-shadow: 0 1px #000;
-	color: #8296aa;
 }
 
 footer div div {
@@ -85,4 +95,79 @@ footer a {
 footer a:hover {
 	color: #8EA7C0;
 	text-decoration: underline;
+}
+
+.sticky-nav {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 41px;
+	border-bottom: solid 1px #000;
+}
+
+.sticky-nav > div {
+	height: 40px;
+	border-bottom: solid 1px #777;
+	padding: 0 30px;
+	line-height: 40px;
+}
+
+.about {
+	padding-bottom: 60px;
+}
+
+.about h2 {
+	padding-bottom: 10px;
+}
+
+p + p {
+	padding-top: 20px;
+}
+
+.btn {
+	display: none;
+	background: #ccc;
+	line-height: 17px;
+	color: #333;
+	text-decoration: none;
+	border-radius: 5px;
+	text-shadow: 0 1px #fff;
+	cursor: pointer;
+	font-weight: 400;
+	opacity: 0.7;
+}
+
+.btn span {
+	display: inline-block;
+	border-top: solid 1px #ddd;
+	border-radius: 5px;
+	padding: 5px 10px;
+}
+
+.btn:hover {
+	opacity: 1.0;
+	color: #fff;
+	text-shadow: 0 1px #000;
+	background: #444;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#333333', endColorstr='#111111');
+	background: -webkit-gradient(linear, left top, left bottom, from(#a0b7cf), to(#748698));
+	background: -moz-linear-gradient(top,  #007fe0,  #111);
+}
+
+.btn:hover span {
+	border-top: solid 1px #b8d3ee;
+}
+
+.btn .icon-circle-arrow-left {
+	margin-right: 6px;
+}
+
+.btn .icon-circle-arrow-right {
+	margin-left: 6px;
+}
+
+.rank-output {
+	display: inline-block;
+	padding-left: 10px;
 }
