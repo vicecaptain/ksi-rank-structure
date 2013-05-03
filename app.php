@@ -25,7 +25,8 @@ class Rank {
 }
 
 // file I/O
-$handle = fopen("data.json" , "r");
+$filename = "data.json";
+$handle = fopen($filename , "r");
 $contents = fread($handle, filesize($filename));
 fclose($handle);
 
