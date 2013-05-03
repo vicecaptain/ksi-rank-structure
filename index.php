@@ -11,25 +11,27 @@ include "app.php";
 		<link href="css/app.css" rel="stylesheet" type="text/css" />
 	</head>
 	<body>
+		<?php
+		$data = Store::getData();
+		$dataLength = count($data);
+		?>
+		
 		<header>
 			<h1>KSI Hierarchy Ranking Structure</h1>
-			<h2>From <strong>Private</strong> To <strong>Chief of Staff</strong></h2>
+			<h2>From <strong><?php echo $data[$dataLength - 1]->getName(); ?></strong> To <strong><?php echo $data[0]->getName(); ?></strong></h2>
 		</header>
 		
 		<section>
 			<ul>
-				<?php foreach(Store::getData() as $index => $rank) { ?>
+				<?php foreach($data as $index => $rank) { ?>
 					<li>
-						<h3><span>#<?php echo count(Store::getData()) - ($index); ?> <?php echo $rank->getName(); ?></span></h3>
+						<h3><span>#<?php echo $dataLength - $index; ?> <?php echo $rank->getName(); ?> <i class="icon-user"></i></span></h3>
 						<p>
 							<?php echo $rank->getDescription(); ?>
 						</p>
 					</li>
 				<?php } ?>
 			</ul>
-			
-			<a href="">Previous Rank</a>
-			<a href="">Next Rank</a>
 		</section>
 		
 		<footer>
