@@ -1,8 +1,12 @@
 [   
     
+    
+    {  "name": "Co-Founder",
+       "description": "This position is given to a General who may be eligible for a promotion after 1 - 2 months of training and expereince in KSI. Must have at least 1 - 2 Squad Splits, has overseen production, training or mentored at least 0 - 200 members.<br /><br />Teaches General - Major how to build foundation of the squads as a whole, setting up meetings for General, Major, 1st Captain, 1st Lieutentant, how to handle minor and major issues, submits back logs to Founder on end of month basis.<br /><br />Reports to Founder - Division Leader can promote General and approves Major.<br /><br />They should be role models for General - Major."
+    ),
     {
-        "name": "General",
-        "description": "This position is given to a Major who may be eligible for a promotion after 1 - 2 months of training and expereince in KSI. Must have completed fulfillment of Major training, completed at least 1 - 4 workshops, ran at least 1 - 4 workshops, has ran mutliple meetings or game nights.<br /><br />Teaches Major - Lieutentant how to recruit, how to host meetings, how to run game nights, must be active on global.com/ksiclan.net daily, runs weekly squad meetings and updates, handles minor and major issues, submits back logs to Co-Founder on end of month basis.<br /><br />Reports to Co-Founder - Founder can promote Major and approves Captains - Lieutentant.<br /><br />They should be role models for Major - Lieutentant."
+      "name": "General",
+      "description": "This position is given to a Major who may be eligible for a promotion after 1 - 2 months of training and expereince in KSI. Must have completed fulfillment of Major training, completed at least 1 - 4 workshops, ran at least 1 - 4 workshops, has ran mutliple meetings or game nights.<br /><br />Teaches Major - Lieutentant how to recruit, how to host meetings, how to run game nights, must be active on global.com/ksiclan.net daily, runs weekly squad meetings and updates, handles minor and major issues, submits back logs to Co-Founder on end of month basis.<br /><br />Reports to Co-Founder - Founder can promote Major and approves Captains - Lieutentant.<br /><br />They should be role models for Major - Lieutentant."
     },
     {
       "name": "Major",
