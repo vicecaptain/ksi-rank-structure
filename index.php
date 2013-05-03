@@ -9,6 +9,7 @@ include "app.php";
 		<link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700" rel="stylesheet" type="text/css" />
 		<link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 		<link href="css/app.css" rel="stylesheet" type="text/css" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 	</head>
 	<body>
 		<?php
