@@ -22,6 +22,14 @@ class Rank {
 	public function setDescription($description) {
 		$this->_description = $description;
 	}
+	
+	public function getName() {
+		return $this->_name;
+	}
+	
+	public function getDescription() {
+		return $this->_description;
+	}
 }
 
 // file I/O

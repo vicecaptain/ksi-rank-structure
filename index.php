@@ -16,9 +16,13 @@ include "app.php";
 		
 		<section>
 			<ul>
-				<?php
-					
-				?>
+				<?php foreach(Store::getData() as $rank) { ?>
+					<li>
+						<?php echo $rank->getName(); ?>
+						<br />
+						<?php echo $rank->getDescription(); ?>
+					</li>
+				<?php } ?>
 			</ul>
 			
 			<a href="">Previous Rank</a>
