@@ -1,4 +1,6 @@
-<!doctype html>
+<?php 
+include "app.php";
+?><!doctype html>
 <html>
 	<head>
 		<title>KSI Rank Structure</title>
@@ -14,9 +16,9 @@
 		
 		<section>
 			<ul>
-				<li>
+				<?php
 					
-				</li>
+				?>
 			</ul>
 			
 			<a href="">Previous Rank</a>
