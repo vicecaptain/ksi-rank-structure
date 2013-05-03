@@ -20,7 +20,7 @@ include "app.php";
 			<div>
 				<a class="btn btn-left" href=""><span><i class="icon-circle-arrow-left"></i> Previous Rank</span></a>
 				<a class="btn btn-right" href=""><span>Next Rank <i class="icon-circle-arrow-right"></i></span></a>
-				<span class="rank-output"><span class="data-out"></span></span>
+				<span class="rank-output"><span class="data-out"></span> &nbsp;<i class="icon-user"></i></span>
 			</div>
 		</div>
 		
