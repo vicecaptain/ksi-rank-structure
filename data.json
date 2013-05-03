@@ -1,9 +1,21 @@
-[
+[   
+    
+    {
+        "name": "General",
+        "description": "This position is given to a Major who may be eligible for a promotion after 1 - 2 months of training and expereince in KSI. Must have completed fulfillment of Major training, completed at least 1 - 4 workshops, ran at least 1 - 4 workshops, has ran mutliple meetings or game nights.<br /><br />Teaches Major - Lieutentant how to recruit, how to host meetings, how to run game nights, must be active on global.com/ksiclan.net daily, runs weekly squad meetings and updates, handles minor and major issues, submits back logs to Co-Founder on end of month basis.<br /><br />Reports to Co-Founder - Founder can promote Major and approves Captains - Lieutentant.<br /><br />They should be role models for Major - Lieutentant."
+    },
+    {
+      "name": "Major",
+      "description": "This position is given to a Captain who may be eligible for a promotion after 1 month 1/2 of training and expereince in KSI. Must have completed fulfillment of Captain training, must completed 1 - 2 workshops, ran at least 1 - 2 workshops, runs weekly squad meeting, handles minor and major issues.<br /><br />Reports to General - Co-Founder can promote Captain and approves Lieutentant - Sergant.<br /><br />They should be role models for Captain - Lieutentant."
+    },
+    {
+      "name": "Captain",
+      "description": "This position is given to those Lieutenants who may become eligible for a promotion after 4 weeks of training and experience in KSI.<br /><br />Successful fulfillment of the Lieutenant rank for at least 2 weeks time.<br /><br />Organizing activities for the squad, setting up squad meetings for generals, forwarding the leaders messages to the squad, recruiting, staying active on ksiglobal.com and the KSI Forums. They must have full knowledge of the Rank Structure. They are the ones to suggest which Sergeants should be promoted to Lieutenants. And they also are responsible of reporting any larger problems of the squad to the Major or General directly.<br /><br />Reports to Major, General and or Co-Founder.<br /><br />They should be role models for Sergeants, Corporals and Privates."
+    },
     {
     "name": "Lieutenant",
     "description": "This position is given to those Sergeants who may become eligible for a promotion after 3 weeks of training and experience in KSI.<br /><br />Successful fulfillment of the Sergeant rank for at least 2 weeks time.<br /><br />Helping their Captains with squad activities and the squad lists. A lieutenant should know and understand how to run background checks on the new members. They must being fully trained in recruiting techniques and know the Code of Conduct an rank structure.<br /><br />They have to be active on ksiglobal.com and the KSI Forums. They are responsible for solving minor problems and recruiting new members.<br /><br />Reports to Captain, Major and General.<br /><br />They should be role models for Sergeants, Corporals, and Privates."
     },
-    
     {
         "name": "Sergeant",
         "description": "This position is given to those Privates or Corporals who have acquired a KSI tag.<br /><br />Acquiring a KSI Gamer tag, being in KSI for at least 2 weeks, and having permission from a Captain to get it.<br /><br />Uphold the Code of Conduct; stay active as a gamer and be registered on ksiglobal.com and KSI Forums. They should also know the rank Structure up through Director.<br /><br />Reports to Lieutenants, and any other higher rank.<br /><br />The 2 weeks wait to get the KSI gamer tag is to ensure the member wants to be part of the community; they have to understand that they will represent KSI from that moment on."
