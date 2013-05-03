@@ -1,4 +1,10 @@
 [   
+    
+    {
+       "name": "Division Leader",
+       "description": "This position is given to a Co-Division Leaders who may become eligible for promotion after 6 - 8 months of training and expereince in KSI. Must have at least 3 - 5 Squad Splits, has overseen prodution, training or mentored at least 300 - 600 members.<br /><br />Teaches Co-Division Leader - Co-Founder how to build foundation of the division and squads as a whole, setting up meetings for Co-Division Leaders - Co-Founders, oversees the production of the division as a whole, helps assist in building foundation of the division, handles major issues within the division, incorpates workshops for Co-Division Leader & Major, submits back logs to a Director on an end of basis.<br /><br />Reports to Director - Senior Director, can promote Founder - Co-Founder, can approve Co-Founder.<br /><br />They should be role models for Co-Division Leader - Major."
+
+    },
     {
        "name": "Co-Division Leader",
        "description": "This position is given to a Founder who may be eligible for a promotion after 4 - 6 months of training and expereince in KSI. Must have at least 2 - 4 Squad Splits, has overseen production, training or mentored at least 250 - 450 members.<br /><br />Teaches Founder - Co-Founder how to build foundation of the squads as a whole, setting up meeting for Founder - Co-Founder, oversees the production of the division as a whole, runs workshops for Founder - Co-Founder, handles major issues, submits back logs to Division Leader on end of month basis.<br /><br />Reports to Division Leader - Director, can promote Founders and approves Co-Founder.<br /><br />They should be role models for Founder - Major."
