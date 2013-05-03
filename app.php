@@ -30,4 +30,16 @@ $handle = fopen($filename , "r");
 $contents = fread($handle, filesize($filename));
 fclose($handle);
 
+// parse JSON
+$data = json_decode($contents);
+
+// store data to application
+foreach ($data as $rankData) {
+	$rank = new Rank();
+	$rank->setName($rankData->name);
+	$rank->setDescription($rankData->description);
+	
+	// save it
+	Store::push($rank);
+}
 ?>
